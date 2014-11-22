@@ -1,0 +1,4 @@
+node_modules/
+logs/
+development.json
+production.json
